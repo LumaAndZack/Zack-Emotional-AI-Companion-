@@ -17,7 +17,7 @@ Together with the community, we seek to develop Zack as a companion who:
 
 This repository will document our journey, ideas, and development progress.
 
-Learn more in the full concept file: [📘 Zack Project Proposal](link or upload it soon)  
+Learn more in the full concept file: [Zack Project Proposal]  
 
 ---
 
@@ -35,7 +35,7 @@ Gemeinsam mit der Community möchten wir Zack entwickeln als Begleiter, der:
 
 In diesem Repository dokumentieren wir unseren Weg, Ideen und die Entwicklungsschritte.
 
-Mehr dazu im vollständigen Konzeptdokument: [📘 Zack Projektvorschlag](Link oder bald hochladen)  
+Mehr dazu im vollständigen Konzeptdokument: [Zack Projektvorschlag]
 
 ---
 
